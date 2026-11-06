@@ -1,4 +1,5 @@
-# HelpDesk Lite
+# HelpDesk Lite 
+Nome: Beatriz de Cassia Bettio - RA 25000311
 
 Projeto com login, cadastro, listagem e criação de chamados (apenas admin) com a API apenas para estudo local.
 
